@@ -68,28 +68,12 @@ I then extended the app with **search, filtering, UI improvements, and bug fixes
 
 ---
 
-## 📂 Key Project Structure
 
-src/
-│── components/
-│ ├── Header.jsx
-│ ├── Search.jsx ← custom
-│ ├── PriceFilter.jsx ← custom
-│ ├── VegFilter.jsx ← custom
-│ ├── Meals.jsx
-│ ├── MealItem.jsx
-│ ├── Cart.jsx
-│ └── Checkout.jsx
-│
-│── store/
-│ ├── CartContext.jsx
-│ └── UserProgressContext.jsx
-│
-│── hooks/
-│ └── useHttp.jsx ← custom
-│
-│── App.jsx
-
+🔮 Possible Future Improvements
+Persist filters in URL or localStorage
+Add "Add to Favorites" feature
+Debounced search input
+API integration for real meal data
 
 ---
 
@@ -98,12 +82,3 @@ src/
 ```bash
 npm install
 npm run dev    # or npm start
-
-
-
-
-🔮 Possible Future Improvements
-Persist filters in URL or localStorage
-Add "Add to Favorites" feature
-Debounced search input
-API integration for real meal data
