@@ -15,13 +15,13 @@ I then extended the app with **search, filtering, UI improvements, and bug fixes
 | Cart Modal | Slide-in modal to show cart contents | Tutorial |
 | Checkout Modal | Collects user details before confirming order | Tutorial |
 | Context API for Cart | Global cart state management | Tutorial |
-| **Search by Dish Name** | Search meals live by typing | **Added by me** |
-| **Filter by Veg / Non-Veg** (Dropdown) | Filter meals based on food type | **Added by me** |
-| **Filter by Price Range (Pill Buttons)** | Basic / Premium / Special pricing filters | **Added by me** |
-| **Improved Responsive Layout** | Search + filters align correctly across screen sizes | **Added by me** |
-| **ESC Key Modal Fix** | Fixed bug where closing modal via ESC prevented reopening | **Added by me** |
-| **Empty Cart Template** | Added UI message when cart has no items | **Added by me** |
-| **Enhanced "No Meals Found" Template** | Styled empty state UI for better user feedback | **Added by me** |
+| **Search by Dish Name** | Search meals live by typing | **By me** |
+| **Filter by Veg / Non-Veg** (Dropdown) | Filter meals based on food type | **By me** |
+| **Filter by Price Range (Pill Buttons)** | Basic / Premium / Special pricing filters | **By me** |
+| **Improved Responsive Layout** | Search + filters align correctly across screen sizes | **By me** |
+| **ESC Key Modal Fix** | Fixed bug where closing modal via ESC prevented reopening | **By me** |
+| **Empty Cart Template** | Added UI message when cart has no items | **By me** |
+| **Enhanced "No Meals Found" Template** | Styled empty state UI for better user feedback | **By me** |
 
 ---
 
